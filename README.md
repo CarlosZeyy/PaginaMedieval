@@ -47,9 +47,6 @@ Se preferir, você pode clonar o repositório para a sua máquina local:
 
 ```bash
 # Clone este repositório
-git clone [https://github.com/CarlosZeyy/PaginaMedieval.git](https://github.com/CarlosZeyy/PaginaMedieval.git)
+git clone https://github.com/CarlosZeyy/PaginaMedieval.git
 
-# Acesse a pasta do projeto
-cd PaginaMedieval
-
-# Abra o arquivo index.html no seu navegador
+# Abra o arquivo index.html no seu navegador ou execute o live server
