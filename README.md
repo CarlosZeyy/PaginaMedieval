@@ -39,7 +39,7 @@ Para ver a página em funcionamento, você pode seguir uma das opções abaixo:
 **1. Acessando o link do GitHub Pages (Recomendado):**
 
 O projeto está hospedado e pode ser acessado diretamente pelo link:
-[https://carloszeyy.github.io/PaginaMedieval/](https://carloszeyy.github.io/PaginaMedieval/)
+https://carloszeyy.github.io/PaginaMedieval/
 
 **2. Executando Localmente:**
 
